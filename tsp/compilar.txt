@@ -1,0 +1,1 @@
+cd /Users/davidramirezsierra/Desktop/tsp javac Ciudad.java; javac Ruta.java; javac Problema.java; javac Heuristica.java; javac TSP.java; javac ANALISIS.java
